@@ -3,3 +3,7 @@ Revision history for Perl extension Apache::Wrapper.
 0.01  Mon Mar  6 14:21:37 2000
 	- original version; created by h2xs 1.19
 
+0.02  3.14.2000
+	- fixed DEBUG problem
+        - formated to 70 chars per line
+
